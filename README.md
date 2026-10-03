@@ -2,6 +2,12 @@
 
 Türkçe arayüzlü, kelime odaklı, ADHD dostu web/PWA prototipi. Mevcut açık krem/yeşil tasarım korunmuştur.
 
+## İletişim
+
+[![GitHub](https://github.githubassets.com/assets/modules/logos/pages/GitHub-Mark.png)](https://github.com/DennisYildizdev)
+
+**GitHub:** [github.com/DennisYildizdev](https://github.com/DennisYildizdev) · **E-posta:** [enisyildiztech@outlook.com](mailto:enisyildiztech@outlook.com)
+
 ## Lisans
 
 Kaynak kod MIT lisansı altındadır; telif sahibi **DennisYildizdev** (`LICENSE`). Bu lisans kod dosyalarını kapsar, kelime envanteri ve üçüncü taraf IPA/çeviri içeriğini kapsamaz — bunlar `THIRD-PARTY-NOTICES.md` ve `licenses/` altındaki kendi lisanslarıyla dağıtılır. Zenginleştirilmiş kartlar AI destekli taslaktır (`reviewStatus: draft`); alanların dolu olması insan editoryal incelemesi iddiası değildir.

@@ -192,3 +192,15 @@ button:disabled { cursor: default; }
 .icon-button, .sound-small { min-height: 44px; }
 .sound-small { min-width: 44px; }
 
+/* İletişim altbilgisi. Uygulama tabanı sabit alt gezinme çubuğunun
+   üstünde durduğu için footer da alt boşluğa göre konumlanır. */
+.app-footer { display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 8px 22px; margin-top: 34px; padding: 18px 0 4px; border-top: 1px solid var(--line); }
+.footer-link { display: inline-flex; align-items: center; gap: 8px; min-height: 44px; padding: 6px 10px; border-radius: 12px; color: var(--muted); font-size: .88rem; font-weight: 700; text-decoration: none; overflow-wrap: anywhere; }
+.footer-link:hover { color: var(--ink); background: rgba(168, 213, 189, .28); }
+.footer-icon { width: 19px; height: 19px; flex: none; }
+
+@media (max-width: 620px) {
+  .app-footer { gap: 4px 14px; }
+  .footer-link { font-size: .82rem; }
+}
+
